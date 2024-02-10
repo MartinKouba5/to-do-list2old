@@ -1,0 +1,27 @@
+body {
+  background-color: #023059;
+  color: white;
+  margin: 50px;
+  }
+  .all-tasks {
+  margin-top: 50px;
+  }
+
+ .text {
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  background-color: #ffffff;
+  width: 500px;
+  }
+  
+  h1{
+    text-align: center;
+    margin: 25px;
+  }
+  h4{
+    color: rgb(255, 255, 255);
+  }
+  #add{
+    margin-top: 25px;
+  }
